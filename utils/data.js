@@ -2,6 +2,7 @@ const data = {
   products: [
     {
       name: "Arabica Coffee Scrub",
+      slug: "arabica-coffee",
       category: "Scrubs",
       image: "/images/product1.jpg",
       price: 24,
@@ -13,6 +14,7 @@ const data = {
     },
     {
       name: "Arabica COFFEE Body & Face scrub",
+      slug: "arabica-coffee-2",
       category: "Shirts",
       image: "/images/product2.jpg",
       price: 60,
@@ -24,6 +26,7 @@ const data = {
     },
     {
       name: "Love Heals - Lavender Exfoliating Body Scrub",
+      slug: "arabica-coffee-ara",
       category: "Shirts",
       image: "/images/product3.jpg",
       price: 28,
@@ -35,6 +38,7 @@ const data = {
     },
     {
       name: "Mostory Grapefruit Body Scrub",
+      slug: "arabica-coffee-mostory",
       category: "Scrubs",
       image: "/images/product4.jpg",
       price: 35,
@@ -46,6 +50,7 @@ const data = {
     },
     {
       name: "Mary Magdalene Body Scrub",
+      slug: "arabica-coffee-mary",
       category: "Scrubs",
       image: "/images/product5.jpg",
       price: 45,
